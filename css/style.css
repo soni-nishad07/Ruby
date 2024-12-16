@@ -1,0 +1,197 @@
+
+*
+{
+    margin: 0px;
+    padding: 0px;
+    font-family:sans-serif
+}
+
+
+.slider_img
+{
+    width: 100%;
+    height: 600px;
+}
+
+
+.about_head h3{
+    margin: auto;
+    /* text-align: center; */
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-weight: 600;
+    font-size: 40px;
+}
+
+
+.sec1{
+    margin: 100px  0px;
+}
+
+
+.img1
+{
+    height: 500px;
+}
+
+ .img2
+{
+    margin: 20px;
+    height: 500px;
+}
+
+
+
+.about_head p{
+    font-size: 24px;
+}
+
+.list  li{
+    list-style-type: circle;
+font-size: 22px;
+}
+
+
+.click{
+    padding: 10px 40px;
+    margin-left: 34px;
+    font-size: 20px;
+}
+
+
+.head{
+    margin: auto;
+    text-align: center;
+    padding: 60px;
+}
+
+
+.head h3{ 
+    font-size: 40px;
+
+}
+
+.head2
+{
+    /* padding-top: 60px; */
+    text-align: center;
+}
+
+.head2 h3
+{
+    font-size: 40px;
+}
+
+
+.service-card {
+    margin: 40px 0px;
+}
+
+a.nav-link.active {
+    margin: 0px 60px;
+    font-weight: 600;
+    font-size: 21px;
+}
+
+.card1 {
+    background-color: #757373;
+    border: 1px solid #757373;
+}
+
+.service2
+{
+    /* margin: 60px auto; */
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+
+.card-title{
+    font-size: 22px;
+    padding: 15px 20px;
+    font-weight: 600;
+}
+
+.card-text
+{
+    font-size: 18px;
+    padding: 10px 20px;
+    font-weight: 500;
+}
+
+i.fa-solid.fa-shapes {
+    color: green;
+    font-size: 42px;
+    position: absolute;
+    top: 19px;
+left: 19px;
+}
+
+
+.circle {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: white;
+    /* margin: auto; */
+    position: relative;
+    top: -24px;
+    left: 43px;
+}
+
+.services
+{
+    background-color: black;
+    color: white;
+}
+
+
+.footer-section
+{
+    background-color: black;
+    color: white;
+}
+
+
+.footer
+{
+    width: 90%;
+    padding: 60px 0px;
+}
+
+.footer h2
+{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.quick
+{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.section-service2
+{
+    margin: 60px auto;
+/* margin-top: 40px;
+margin-bottom: 60px; */
+}
+
+.quick ul li
+{
+    font-size: 22px;
+}
+
+.footer p 
+{
+    font-size: 21px;
+}
+
+.footer-link li
+{
+    font-size: 20px;
+}
+
+.footer ul{
+    list-style-type: none;
+}
